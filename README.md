@@ -10,7 +10,7 @@ Para el correcto funcionamiento de la API REST se debe:
 
 - Tener instalada una versión vigente de PHP con Laravel.
 - Clonar repositorio: https://github.com/Luisfolaveg/Ticket-Management.git.
-- Instalar las dependencias necesarias para el correcto funcionamiento.
+- Instalar las dependencias necesarias para el correcto funcionamiento, como lo es composer.
 - Ejecutar las migraciones ‘php artisan migrate’ en la terminal.
 - Ejecutar comando ‘php artisan serve’ en la terminal para levantar el server.
 
