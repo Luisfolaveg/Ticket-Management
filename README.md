@@ -349,7 +349,9 @@ Se adjuntan una serie de imagenes que denuncian el correcto funcionamiento de lo
 ### /event
 [![Captura-de-pantalla-2024-08-23-050742.png](https://i.postimg.cc/j2QsFFfr/Captura-de-pantalla-2024-08-23-050742.png)](https://postimg.cc/SYRFXVVZ)
 ### /purchase
-[![Captura-de-pantalla-2024-08-23-050803.png](https://i.postimg.cc/TPFYLmxB/Captura-de-pantalla-2024-08-23-050803.png)](https://postimg.cc/kVNdL2By)
+[![Captura-de-pantalla-2024-08-23-060058.png](https://i.postimg.cc/brm25T4d/Captura-de-pantalla-2024-08-23-060058.png)](https://postimg.cc/H87xcQYC)
+[![Captura-de-pantalla-2024-08-23-060140.png](https://i.postimg.cc/kMs8DJD9/Captura-de-pantalla-2024-08-23-060140.png)](https://postimg.cc/yWJWbzFr)
+[![Captura-de-pantalla-2024-08-23-060151.png](https://i.postimg.cc/tCg6xKV6/Captura-de-pantalla-2024-08-23-060151.png)](https://postimg.cc/PNBNGFyf)
 ### /orders
 [![Captura-de-pantalla-2024-08-23-050819.png](https://i.postimg.cc/T1XdQ6p9/Captura-de-pantalla-2024-08-23-050819.png)](https://postimg.cc/5YnWND5Y)
 ### /postEvents
