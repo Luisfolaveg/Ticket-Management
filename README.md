@@ -4,6 +4,7 @@
 Para cumplir con lo solicitado en la evaluación técnica, se desarrolla una API REST a través de HTTP utilizando JSON para el traspaso de mensajes, que tiene como finalidad simular la gestión de tickets para eventos artísticos.
 
 # Requerimientos
+[![Captura-de-pantalla-2024-08-23-060354.png](https://i.postimg.cc/gk5x6np9/Captura-de-pantalla-2024-08-23-060354.png)](https://postimg.cc/mtYLvZhV)
 
 # Requisitos
 Para el correcto funcionamiento de la API REST se debe:
